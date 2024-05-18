@@ -1,0 +1,4 @@
+BadApple.gba for compilation from 9front.
+Based on https://github.com/K4rakara/bad-apple-gba
+Files were pregenerated from that repo and vendored here, due
+to python dependency.
